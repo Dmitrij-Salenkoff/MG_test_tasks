@@ -1,4 +1,4 @@
 # MG_test_tasks
 
 ## Задание 1
-![Тестовое MG.drawio.png](%D2%E5%F1%F2%EE%E2%EE%E5%20MG.drawio.png)
+![alt text](https://github.com/Dmitrij-Salenkoff/MG_test_tasks/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20MG.drawio.png)
